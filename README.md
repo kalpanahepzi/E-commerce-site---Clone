@@ -1,4 +1,4 @@
- **E-commerce Website Clone (HTML & CSS)**
+## **E-commerce Website Clone (HTML & CSS)**
 This project is a simple e-commerce website clone built using only HTML and CSS. It serves as a learning exercise to practice front - end development skills, specifically in creating responsive layouts amd visually appealing designs.
 
 ## Project Overview
@@ -20,12 +20,12 @@ This project aims to replicate the basic structure and designs of a typical e-co
 2. Open the `index.html` file in your web browser.
 
 
-## Future Plans (Optional)
+## Future Plans 
 
-* ("Implement JavaScript for interactive elements.")
-* ("Integrate a backend for handling user accounts and orders.")
+* Implement JavaScript for interactive elements.
+* Integrate a backend for handling user accounts and orders.
 
 ## Credits 
 
-(If you used any resources, libraries, or inspiration from other projects, give credit here.)
+If you used any resources, libraries, or inspiration from other projects, give credit here.
   
